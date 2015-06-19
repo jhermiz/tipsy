@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tipsy</string>
+
+    <string name="bill_text_view">Total Bill (Without Tip)</string>
+    <string name="bill_edit_view">0.00</string>
+
+    <string name="tip_text_view">Tip (%)</string>
+    <string name="tip_edit_view">0.00</string>
+
+    <string name="final_text_view">Final Bill</string>
+    <string name="final_edit_view">0.00</string>
+    <string name="action_settings">Tipsy</string>
+    <string name="service_text_view">How would you rate your service?</string>
+</resources>
